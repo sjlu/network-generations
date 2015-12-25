@@ -1,0 +1,123 @@
+BODY {
+	FONT-SIZE: 8pt; FONT-FAMILY: Arial, Helvetica
+}
+TD {
+	FONT-SIZE: 8pt; FONT-FAMILY: Arial, Helvetica
+}
+P {
+	FONT-SIZE: 8pt; FONT-FAMILY: Arial, Helvetica
+}
+UL {
+	MARGIN-TOP: 15px; PADDING-LEFT: 0px; LIST-STYLE-IMAGE: url(../images/square.gif); MARGIN-LEFT: 30px; LIST-STYLE-TYPE: square
+}
+UL.notop {
+	MARGIN-TOP: 0px; PADDING-LEFT: 0px; LIST-STYLE-IMAGE: url(../images/square.gif); MARGIN-LEFT: 30px; LIST-STYLE-TYPE: square
+}
+UL.nopadding {
+	MARGIN-TOP: 0px; PADDING-LEFT: 0px; LIST-STYLE-IMAGE: url(../images/square.gif); MARGIN-LEFT: 18px; LIST-STYLE-TYPE: square
+}
+OL.nopadding {
+	MARGIN-TOP: 0px; PADDING-LEFT: 0px; MARGIN-LEFT: 18px
+}
+LI {
+	MARGIN-BOTTOM: 2px
+}
+H1 {
+	MARGIN-TOP: 30px; FONT-WEIGHT: bold; FONT-SIZE: 13pt; MARGIN-BOTTOM: 0px; COLOR: #b9b9b9; FONT-FAMILY: Arial, Helvetica
+}
+H1.notop {
+	MARGIN-TOP: 0px
+}
+H2 {
+	MARGIN-TOP: 25px; FONT-WEIGHT: bold; FONT-SIZE: 11pt; MARGIN-BOTTOM: 0px; COLOR: #e8e8e8; FONT-FAMILY: Arial, Helvetica
+}
+H2.notop {
+	MARGIN-TOP: 0px
+}
+H3 {
+	MARGIN-TOP: 20px; FONT-WEIGHT: bold; FONT-SIZE: 10pt; MARGIN-BOTTOM: 0px; COLOR: #b9b9b9; FONT-FAMILY: Arial, Helvetica
+}
+H3.notop {
+	MARGIN-TOP: 0px
+}
+H4 {
+	MARGIN-TOP: 20px; FONT-WEIGHT: bold; FONT-SIZE: 8pt; MARGIN-BOTTOM: 0px; COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica; TEXT-DECORATION: underline
+}
+H4.notop {
+	MARGIN-TOP: 0px
+}
+.headline {
+	FONT-WEIGHT: bold; COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica
+}
+.subheadline {
+	MARGIN-TOP: 0px; FONT-WEIGHT: normal; FONT-SIZE: 8pt; MARGIN-BOTTOM: 0px; COLOR: #b9b9b9; FONT-FAMILY: Arial, Helvetica
+}
+.h_news {
+	MARGIN-TOP: 20px; FONT-WEIGHT: bold; FONT-SIZE: 8pt; MARGIN-BOTTOM: 0px; COLOR: #b9b9b9; FONT-FAMILY: Arial, Helvetica
+}
+.statustext {
+	FONT-SIZE: 7pt; COLOR: #c0c0c0; FONT-FAMILY: Verdana, Helvetica
+}
+.statustext2 {
+	FONT-SIZE: 7pt; COLOR: #c0c0c0; FONT-FAMILY: Verdana, Helvetica
+}
+.form_title {
+	FONT-WEIGHT: bold
+}
+.quote {
+	BORDER-RIGHT: #808080 1px solid; PADDING-RIGHT: 8px; BORDER-TOP: #808080 1px solid; PADDING-LEFT: 8px; MARGIN-BOTTOM: 20px; PADDING-BOTTOM: 6px; MARGIN-LEFT: 7px; BORDER-LEFT: #808080 3px solid; COLOR: #c0c0c0; MARGIN-RIGHT: 7px; PADDING-TOP: 8px; BORDER-BOTTOM: #808080 1px solid; BACKGROUND-COLOR: #303030
+}
+.errortext {
+	FONT-WEIGHT: bold; MARGIN-LEFT: 3px; COLOR: #e5622e
+}
+P {
+	MARGIN-TOP: 15px; MARGIN-BOTTOM: 15px
+}
+P.notop {
+	MARGIN-TOP: 0px
+}
+P.quote {
+	BORDER-RIGHT: #808080 1px solid; PADDING-RIGHT: 8px; BORDER-TOP: #808080 1px solid; PADDING-LEFT: 8px; MARGIN-BOTTOM: 20px; PADDING-BOTTOM: 6px; MARGIN-LEFT: 7px; BORDER-LEFT: #808080 1px solid; COLOR: #c0c0c0; MARGIN-RIGHT: 7px; PADDING-TOP: 8px; BORDER-BOTTOM: #808080 1px solid; BACKGROUND-COLOR: #232323
+}
+P.spoilerblock {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; MARGIN-BOTTOM: 20px; PADDING-BOTTOM: 6px; MARGIN-LEFT: 7px; COLOR: #c0c0c0; MARGIN-RIGHT: 7px; PADDING-TOP: 4px; BACKGROUND-COLOR: #232323
+}
+.spoilertext {
+	COLOR: #232323
+}
+TD.bordertop {
+	BORDER-TOP: #696969 1px solid
+}
+TD.borderbottom {
+	BORDER-BOTTOM: #696969 1px solid
+}
+TD.header {
+	FONT-WEIGHT: bold; BORDER-BOTTOM: #696969 1px solid
+}
+TD.footer {
+	BORDER-TOP: #696969 1px solid
+}
+TD.line_bg {
+	BACKGROUND-COLOR: #696969
+}
+TEXTAREA {
+	BORDER-RIGHT: #c0c0c0 1px solid; BORDER-TOP: #c0c0c0 1px solid; FONT-SIZE: 8pt; BORDER-LEFT: #c0c0c0 1px solid; COLOR: #ffffff; BORDER-BOTTOM: #c0c0c0 1px solid; FONT-FAMILY: Arial, Helvetica; BACKGROUND-COLOR: #292929
+}
+SELECT {
+	BORDER-RIGHT: #c0c0c0 1px solid; BORDER-TOP: #c0c0c0 1px solid; FONT-SIZE: 8pt; BORDER-LEFT: #c0c0c0 1px solid; COLOR: #ffffff; BORDER-BOTTOM: #c0c0c0 1px solid; FONT-FAMILY: Arial, Helvetica; BACKGROUND-COLOR: #292929
+}
+INPUT.textbox {
+	BORDER-RIGHT: #c0c0c0 1px solid; BORDER-TOP: #c0c0c0 1px solid; FONT-SIZE: 8pt; BORDER-LEFT: #c0c0c0 1px solid; COLOR: #ffffff; BORDER-BOTTOM: #c0c0c0 1px solid; FONT-FAMILY: Arial, Helvetica; BACKGROUND-COLOR: #292929
+}
+INPUT.news_headline {
+	BORDER-RIGHT: #c0c0c0 1px solid; BORDER-TOP: #c0c0c0 1px solid; FONT-WEIGHT: bold; FONT-SIZE: 13pt; BORDER-LEFT: #c0c0c0 1px solid; COLOR: #ffffff; BORDER-BOTTOM: #c0c0c0 1px solid; FONT-FAMILY: Arial, Helvetica; BACKGROUND-COLOR: #292929
+}
+INPUT.login_text {
+	BORDER-RIGHT: #c0c0c0 1px solid; BORDER-TOP: #c0c0c0 1px solid; FONT-SIZE: 8pt; BORDER-LEFT: #c0c0c0 1px solid; WIDTH: 100px; COLOR: #ffffff; BORDER-BOTTOM: #c0c0c0 1px solid; FONT-FAMILY: Arial, Helvetica; BACKGROUND-COLOR: #292929
+}
+INPUT.login_pw {
+	BORDER-RIGHT: #c0c0c0 1px solid; BORDER-TOP: #c0c0c0 1px solid; FONT-SIZE: 8pt; BORDER-LEFT: #c0c0c0 1px solid; WIDTH: 100px; COLOR: #ffffff; BORDER-BOTTOM: #c0c0c0 1px solid; FONT-FAMILY: Arial, Helvetica; BACKGROUND-COLOR: #292929
+}
+INPUT.button {
+	BORDER-TOP-WIDTH: 1px; FONT-WEIGHT: bold; BORDER-LEFT-WIDTH: 1px; FONT-SIZE: 10px; BORDER-LEFT-COLOR: #898989; BORDER-BOTTOM-WIDTH: 1px; BORDER-BOTTOM-COLOR: #898989; CURSOR: hand; COLOR: #ffffff; BORDER-TOP-COLOR: #898989; FONT-FAMILY: Verdana, Arial, Helvetica, Sans-Serif; HEIGHT: 17px; BACKGROUND-COLOR: #595959; BORDER-RIGHT-WIDTH: 1px; BORDER-RIGHT-COLOR: #898989
+}

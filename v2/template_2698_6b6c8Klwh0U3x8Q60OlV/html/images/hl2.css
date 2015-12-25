@@ -1,0 +1,27 @@
+H1 {
+	COLOR: #e5622e
+}
+A:link {
+	COLOR: #ff7733; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #ff7733; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #ffaa80; TEXT-DECORATION: underline
+}
+A:active {
+	COLOR: #ff7733; TEXT-DECORATION: none
+}
+A.menu:link {
+	COLOR: #ff7733; TEXT-DECORATION: none
+}
+A.menu:visited {
+	COLOR: #ff7733; TEXT-DECORATION: none
+}
+A.menu:hover {
+	COLOR: #ffaa80; TEXT-DECORATION: underline
+}
+A.menu:active {
+	COLOR: #ff7733; TEXT-DECORATION: none
+}

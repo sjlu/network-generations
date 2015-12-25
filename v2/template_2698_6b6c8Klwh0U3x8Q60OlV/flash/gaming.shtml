@@ -1,0 +1,357 @@
+<html>
+<head>
+<title>Network Generations</title>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<style type="text/css">
+<!--
+input {
+	font-size: 9px;
+}
+select {
+	font-size: 9px;
+}
+
+td {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+}
+a {
+	color: #0000FF;
+}
+.style1 {color: #000000}
+.style3 {font-size: xx-small}
+-->
+</style>
+</head>
+<body bgcolor=#FFFFFF leftmargin=0 topmargin=0 marginwidth=0 marginheight=0>
+
+<table width=780 border=0 cellpadding=0 cellspacing=0>
+	<tr>
+		
+    <td colspan=2>
+	<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="780" height="203">
+  <param name="movie" value="flash/0421.swf">
+  <param name="quality" value="high">
+  <embed src="flash/0421.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="780" height="203"></embed></object>
+
+	</td>
+	</tr>
+	<tr>
+		
+    <td width="269" valign="top" bgcolor=#5FA2B8> <table width=269 border=0 cellpadding=0 cellspacing=0>
+        <tr> 
+          <td colspan=5> <img src="images/e_02.gif" width=269 height=49 alt=""></td>
+        </tr>
+        <form action=/cpanel/login/ method=POST>
+          <tr> 
+            <td width="90"> <img src="images/e_08.gif" width=90 height=26 alt=""></td>
+            <td colspan=4 background="images/bg6.gif"> <input type="text" size="25" name=user align="middle"> 
+            </td>
+          </tr>
+          <tr> 
+            <td> <img src="images/e_11.gif" width=90 height=21 alt=""></td>
+            <td colspan=4 background="images/bg7.gif"> <input type="text" name=pass size="25" align="middle"> 
+            </td>
+          </tr>
+          <tr> 
+            <td rowspan=2> <img src="images/e_14.gif" width=90 height=44 alt=""></td>
+            <td colspan=2><button type="submit" style="border:none;width:65;height:26;"><img src="images/e_15.gif" border=0 alt=""></button></td>
+            <td width="70"><button type="reset" style="border:none;width:68;height:26;"><img src="images/e_16.gif" border=0 alt=""></button></td>
+            <td width="44"> <img src="images/e_17.gif" width=44 height=26 alt=""></td>
+          </tr>
+        </form>
+        <tr> 
+          <td colspan=3> <a href="#"> <img src="images/e_18.gif" width=135 height=18 border=0 alt=""></a></td>
+          <td> <img src="images/e_19.gif" width=44 height=18 alt=""></td>
+        </tr>
+        <tr> 
+          <td> <img src="images/spacer.gif" width=90 height=1 alt=""></td>
+          <td width="10"> <img src="images/spacer.gif" width=10 height=1 alt=""></td>
+          <td width="57"> <img src="images/spacer.gif" width=56 height=1 alt=""></td>
+          <td> <img src="images/spacer.gif" width=69 height=1 alt=""></td>
+          <td> <img src="images/spacer.gif" width=44 height=1 alt=""></td>
+        </tr>
+        <tr> 
+          <td colspan=5> <img src="images/e_20.gif" width=269 height=32 alt=""></td>
+        </tr>
+        <tr> 
+          <td colspan=2 rowspan=2  bgcolor=#94D7ED> <img src="images/e_21.gif" width=100 height=120 alt=""></td>
+          <td width=169 height=86 colspan=3 background="images/bg5.gif" style="padding-left: 10px; padding-right: 2px;"><div style="color:#003E98; text-decoration: underline; font-weight:bold"> 
+              <!--#include virtual="/utopianews/headlines.php"-->
+            </div></td>
+        </tr>
+        <tr> 
+          <td colspan=3 bgcolor=#94D7ED>&nbsp; </td>
+        </tr>
+        <tr> 
+          <td colspan=5> <img src="images/e_28.gif" width=269 height=30 alt=""></td>
+        </tr>
+        <tr> 
+          <td colspan=2 rowspan=2> <img src="images/e_31.gif" width=100 height=122 alt=""></td>
+          <td colspan=3 background="images/bg4.gif" style="padding-left: 10px; padding-right: 2px;"> 
+            <div class="style1" style="color:#003E98">I never saw prices this 
+              low and service this great! Network Generations is the place to 
+              go. Reliable support, reliable services. </div></td>
+        </tr>
+        <tr> 
+          <td colspan=3 align="left" background="images/bg3.gif"> <a href="#"><img src="images/more.gif" border="0"></a> 
+          </td>
+        </tr>
+        <tr> 
+          <td colspan=5 width=269 height=52 background="images/bg2.gif" style="color:#00415E; font-weight:bold; padding-left: 10px;">&nbsp;	
+          </td>
+        </tr>
+        <tr> 
+          <td> <img src="images/spacer.gif" width=90 height=1 alt=""></td>
+          <td> <img src="images/spacer.gif" width=10 height=1 alt=""></td>
+          <td> <img src="images/spacer.gif" width=56 height=1 alt=""></td>
+          <td> <img src="images/spacer.gif" width=69 height=1 alt=""></td>
+          <td> <img src="images/spacer.gif" width=44 height=1 alt=""></td>
+        </tr>
+      </table></td>
+		
+    <td width="511">
+	<table width=510 height="497" border=0 cellpadding=0 cellspacing=0>
+	<tr>
+		<td width=511 height=143><DIV></DIV>
+		    <table width="100%" border="0" cellpadding="0" cellspacing="0">
+              <tr> 
+                <td bgcolor="#FFFFFF" width="100" style="border-top: 1px dotted #CCCCCC"><img src="images/products/icon-half.life.jpg" /></td>
+                <td bgcolor="#FFFFFF" width="290" style="border-top: 1px dotted #CCCCCC">Half 
+                  Life</td>
+              </tr>
+              <tr> 
+                <td colspan="3" style="border-bottom: 1px dotted #CCCCCC" bgcolor="#FFFFFF"> 
+                  <table width="100%" border="0" cellpadding="3" cellspacing="1">
+                    <tr bgcolor="#333333"> 
+                      <td align="center" colspan="3"><font color="#FFFFFF"><b>Available 
+                        Mods:</b></font></td>
+                    </tr>
+                    <tr bgcolor="#CCCCCC"> 
+                      <td width="33%" align="center">Counter-Strike</td>
+                      <td width="33%" align="center">Day of Defeat</td>
+                      <td width="33%" align="center">Deathmatch Classic</td>
+                    </tr>
+                    <tr bgcolor="#CCCCCC"> 
+                      <td align="center">Firearms</td>
+                      <td align="center">Front Line Force</td>
+                      <td align="center">Half-Life</td>
+                    </tr>
+                    <tr bgcolor="#CCCCCC"> 
+                      <td align="center">Opposing Forces</td>
+                      <td align="center">Ricochet</td>
+                      <td align="center">Team Fortress Classic</td>
+                    </tr>
+                  </table></td>
+              </tr>
+              <tr> 
+                <td><img src="images/products/icon-return.to.castle.wolfenstein.jpg" /></td>
+                <td bgcolor="#FFFFFF" width="290">Return to Castle Wolfenstein</td>
+              </tr>
+              <tr> 
+                <td colspan="3" style="border-bottom: 1px dotted #CCCCCC" bgcolor="#FFFFFF"> 
+                  <table width="100%" border="0" cellpadding="3" cellspacing="1">
+                    <tr bgcolor="#333333"> 
+                      <td align="center" colspan="3"><font color="#FFFFFF"><b>Available 
+                        Mods:</b></font></td>
+                    </tr>
+                    <tr bgcolor="#CCCCCC"> 
+                      <td align="center" width="33%">RTCW</td>
+                      <td align="center" width="33%">Shrubmod</td>
+                      <td align="center" width="33%">OSP</td>
+                    </tr>
+                  </table></td>
+              </tr>
+              <tr> 
+                <td><img src="images/products/icon-quake.3.jpg" /></td>
+                <td bgcolor="#FFFFFF" width="290">Quake III</td>
+              </tr>
+              <tr> 
+                <td colspan="3" style="border-bottom: 1px dotted #CCCCCC" bgcolor="#FFFFFF"> 
+                  <table width="100%" border="0" cellpadding="3" cellspacing="1">
+                    <tr bgcolor="#333333"> 
+                      <td align="center" colspan="3"><font color="#FFFFFF"><b>Available 
+                        Mods:</b></font></td>
+                    </tr>
+                    <tr bgcolor="#CCCCCC"> 
+                      <td align="center" width="33%">Quake III</td>
+                      <td align="center" width="33%">OSP</td>
+                      <td align="center" width="33%">Excessive</td>
+                    </tr>
+                    <tr> 
+                      <td align="center" bgcolor="#CCCCCC">Freeze</td>
+                      <td align="center" bgcolor="#CCCCCC">Three Wave</td>
+                    </tr>
+                  </table></td>
+              </tr>
+              <tr> 
+                <td><img src="images/products/icon-unreal.tournament.jpg" /></td>
+                <td bgcolor="#FFFFFF" width="290">Unreal Tournament</td>
+              </tr>
+              <tr> 
+                <td colspan="3" style="border-bottom: 1px dotted #CCCCCC" bgcolor="#FFFFFF"> 
+                  <table width="100%" border="0" cellpadding="3" cellspacing="1">
+                    <tr bgcolor="#333333"> 
+                      <td align="center" colspan="3"><font color="#FFFFFF"><b>Available 
+                        Mods:</b></font></td>
+                    </tr>
+                    <tr> </tr>
+                    <tr> 
+                      <td align="center" bgcolor="#CCCCCC" width="33%">Unreal 
+                        Tournament</td>
+                    </tr>
+                  </table></td>
+              </tr>
+              <tr> 
+                <td><img src="images/products/icon-unreal.tournament.2003.jpg" /></td>
+                <td bgcolor="#FFFFFF" width="290">Unreal Tournament 2003</td>
+              </tr>
+              <tr> 
+                <td colspan="3" style="border-bottom: 1px dotted #CCCCCC" bgcolor="#FFFFFF"> 
+                  <table width="100%" border="0" cellpadding="3" cellspacing="1">
+                    <tr> </tr>
+                    <tr bgcolor="#333333"> 
+                      <td align="center" colspan="3"><font color="#FFFFFF"><b>Available 
+                        Mods:</b></font></td>
+                    </tr>
+                    <tr> 
+                      <td align="center" bgcolor="#CCCCCC" width="33%">Unreal 
+                        Tournament 2003</td>
+                    </tr>
+                  </table></td>
+              </tr>
+              <tr> 
+                <td colspan="3" style="border-bottom: 1px dotted #CCCCCC" bgcolor="#FFFFFF">&nbsp;</td>
+              </tr>
+            </table>
+            <table id=AutoNumber3 style="BORDER-COLLAPSE: collapse" bordercolor=#1a262a 
+cellspacing=0 cellpadding=0 width=100% border=1>
+              <tbody>
+              <tr>
+                <td width="50%" colspan=2 bgcolor=#1a262a class="style3"><p align=center><b><font face=Verdana color=#aaadae>Private</font></b></p></td>
+                <td width="50%" colspan=2 bgcolor=#1a262a class="style3"><p align=center><b><font face=Verdana color=#aaadae>Public</font></b></p></td>
+              </tr>
+              <tr>
+                <td width="25%" class="style3"><p align=center class="style1"><u><b><font face=Verdana>Players</font></b></u></p></td>
+                <td width="25%" class="style3"><p align=center class="style1"><u><b><font face=Verdana>Price</font></b></u></p></td>
+                <td width="25%" class="style3"><p align=center class="style1"><u><b><font face=Verdana>Players</font></b></u></p></td>
+                <td 
+width="25%" class="style3" 
+style="BORDER-TOP-WIDTH: 1px; BORDER-BOTTOM-WIDTH: 1px; BORDER-RIGHT-WIDTH: 1px"><p align=center class="style1"><u><b><font face=Verdana>Price</font></b></u></p></td>
+              </tr>
+              <tr>
+                <td width="25%" class="style3"><p align=center class="style1"><font face=Verdana>12</font></p></td>
+                <td width="25%" class="style3"><p align=center class="style1"><font face=Verdana>$15</font></p></td>
+                <td width="25%" class="style3"><p align=center class="style1"><font face=Verdana>12</font></p></td>
+                <td width="25%" class="style3"><p align=center class="style1"><font face=Verdana>$24</font></p></td>
+              </tr>
+              <tr>
+                <td width="25%" class="style3"><p align=center class="style1"><font face=Verdana>14</font></p></td>
+                <td width="25%" class="style3"><p align=center class="style1"><font face=Verdana>$18</font></p></td>
+                <td width="25%" class="style3"><p align=center class="style1"><font face=Verdana>14</font></p></td>
+                <td width="25%" class="style3"><p align=center class="style1"><font face=Verdana>$28</font></p></td>
+              </tr>
+              <tr>
+                <td width="25%" class="style3"><p align=center class="style1"><font face=Verdana>16</font></p></td>
+                <td width="25%" class="style3"><p align=center class="style1"><font face=Verdana>$21</font></p></td>
+                <td width="25%" class="style3"><p align=center class="style1"><font face=Verdana>16</font></p></td>
+                <td width="25%" class="style3"><p align=center class="style1"><font face=Verdana>$32</font></p></td>
+              </tr>
+              <tr>
+                <td width="25%" class="style3"><p align=center class="style1"><font face=Verdana>18</font></p></td>
+                <td width="25%" class="style3"><p align=center class="style1"><font face=Verdana>$24</font></p></td>
+                <td width="25%" class="style3"><p align=center class="style1"><font face=Verdana>18</font></p></td>
+                <td width="25%" class="style3"><p align=center class="style1"><font face=Verdana>$36</font></p></td>
+              </tr>
+              <tr>
+                <td width="25%" class="style3"><p align=center class="style1"><font face=Verdana>20</font></p></td>
+                <td width="25%" class="style3"><p align=center class="style1"><font face=Verdana>$27</font></p></td>
+                <td width="25%" class="style3"><p align=center class="style1"><font face=Verdana>20</font></p></td>
+                <td width="25%" class="style3"><p align=center class="style1"><font face=Verdana>$40</font></p></td>
+              </tr>
+              <tr>
+                <td width="25%" class="style3"><p align=center class="style1"><font face=Verdana>22</font></p></td>
+                <td width="25%" class="style3"><p align=center class="style1"><font face=Verdana>$30</font></p></td>
+                <td width="25%" class="style3"><p align=center class="style1"><font face=Verdana>22</font></p></td>
+                <td width="25%" class="style3"><p align=center class="style1"><font face=Verdana>$44</font></p></td>
+              </tr>
+              <tr>
+                <td width="25%" class="style3"><p align=center class="style1"><font face=Verdana>24</font></p></td>
+                <td width="25%" class="style3"><p align=center class="style1"><font face=Verdana>$33</font></p></td>
+                <td width="25%" class="style3"><p align=center class="style1"><font face=Verdana>24</font></p></td>
+                <td width="25%" class="style3"><p align=center class="style1"><font face=Verdana>$48</font></p></td>
+              </tr>
+              <tr>
+                <td width="25%" class="style3"><p align=center class="style1"><font face=Verdana>26</font></p></td>
+                <td width="25%" class="style3"><p align=center class="style1"><font face=Verdana>$36</font></p></td>
+                <td width="25%" class="style3"><p align=center class="style1"><font face=Verdana>26</font></p></td>
+                <td width="25%" class="style3"><p align=center class="style1"><font face=Verdana>$52</font></p></td>
+              </tr>
+              <tr>
+                <td width="25%" class="style3"><p align=center class="style1"><font face=Verdana>28</font></p></td>
+                <td width="25%" class="style3"><p align=center class="style1"><font face=Verdana>$39</font></p></td>
+                <td width="25%" class="style3"><p align=center class="style1"><font face=Verdana>28</font></p></td>
+                <td width="25%" class="style3"><p align=center class="style1"><font face=Verdana>$56</font></p></td>
+              </tr>
+              <tr>
+                <td width="25%" class="style3"><p align=center class="style1"><font face=Verdana>30</font></p></td>
+                <td width="25%" class="style3"><p align=center class="style1"><font face=Verdana>$42</font></p></td>
+                <td width="25%" class="style3"><p align=center class="style1"><font face=Verdana>30</font></p></td>
+                <td width="25%" class="style3"><p align=center class="style1"><font face=Verdana>$60</font></p></td>
+              </tr>
+              <tr>
+                  <td width="25%" height="15" class="style3">
+<p align=center class="style1"><font face=Verdana>32</font></p></td>
+                <td width="25%" class="style3"><p align=center class="style1"><font face=Verdana>$45</font></p></td>
+                <td width="25%" class="style3"><p align=center class="style1"><font face=Verdana>32</font></p></td>
+                <td width="25%" class="style3"><p align=center class="style1"><font face=Verdana>$64</font></p></td>
+              </tr>
+            </tbody>
+          </table>
+		  <p align="left">All Gaming Servers are PINGBOOSTED, meaning, that all servers will be ping reduced by over 10%, guarrenteed! We will not offer any type of server below 10 slots, period.<br>
+		    <br>
+		    <a href="order.shtml"><img src="images/order.gif" width="300" height="50" border="0"></a> </p>
+		  </td>
+	</tr>
+</table>
+	
+	</td>
+    </tr>
+</table>
+
+<table width=780 border=0 cellpadding=0 cellspacing=0>
+	<tr valign="top">
+		<td rowspan=3>
+			<img src="images/menu_niz.gif" width=583 height=56 border=0 alt="" usemap="#menu_niz_Map"></td>
+		<td colspan=3>
+			<img src="images/form_top.gif" width=197 height=9 alt=""></td>
+	</tr>
+	<tr>
+		<td>
+			<img src="images/searh.gif" width=41 height=21 alt=""></td>
+		<td bgcolor=#CBCBCB>
+		<input type="text" size="20" align="middle">
+    </td>
+		
+    <td> <a href="#"><img src="images/go.gif" alt="" width=31 height=21 border="0"></a></td>
+	</tr>
+	<tr>
+		<td>
+			<img src="images/form_10.gif" width=41 height=26 alt=""></td>
+		<td>
+			<img src="images/form_niz.gif" width=125 height=26 alt=""></td>
+		<td>
+			<img src="images/form_12.gif" width=31 height=26 alt=""></td>
+	</tr>
+	<tr>
+		
+    <td width=583 align="right" style="padding-right: 35px;"><div align="center">Copyright &copy; 2005, Network Generations INC. All rights reserved. <br>
+        <a href="privacypolicy.shtml">Privacy Policy</a> |  <a href="privacypolicy.shtml">User Agreement</a> | <a href="termsofuse.shtml">Terms of Use</a> | <a href="copyrightinformations.shtml">Copyright Information</a>
+	</div></td>
+		<td colspan=3>
+			<img src="images/comp_name.gif" width=197 height=45 alt=""></td>
+	</tr>
+</table>
+
+</body>
+</html>

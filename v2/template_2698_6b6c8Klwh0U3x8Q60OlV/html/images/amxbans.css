@@ -1,0 +1,27 @@
+A:visited {
+	FONT-SIZE: 10px; COLOR: #000000; TEXT-DECORATION: none
+}
+A:link {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, Geneva, Swiss, SunSans-Regular; TEXT-DECORATION: none
+}
+A:hover {
+	FONT-SIZE: 10px; COLOR: #aa0000; FONT-FAMILY: Verdana, Arial, Helvetica, Geneva, Swiss, SunSans-Regular
+}
+H1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; MARGIN: 0px; COLOR: black; FONT-STYLE: normal; FONT-FAMILY: verdana, tahoma, arial
+}
+H2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; MARGIN: 0px; COLOR: black; FONT-STYLE: normal; FONT-FAMILY: verdana, tahoma, arial
+}
+TABLE.listtable {
+	BORDER-RIGHT: #c5c5c5 0px solid; BORDER-TOP: #c5c5c5 0px solid; FONT-SIZE: 10px; BORDER-LEFT: #c5c5c5 1px solid; BORDER-BOTTOM: #c5c5c5 1px solid; FONT-FAMILY: verdana, tahoma, arial; BACKGROUND-COLOR: #898989
+}
+TD.listtable_top {
+	BORDER-RIGHT: #ffffff 1px solid; PADDING-RIGHT: 4px; BORDER-TOP: #ffffff 1px solid; PADDING-LEFT: 4px; FONT-SIZE: 10px; BACKGROUND-IMAGE: url(images/th_back.png); PADDING-BOTTOM: 2px; BORDER-LEFT: #ffffff 0px solid; PADDING-TOP: 2px; BORDER-BOTTOM: #ffffff 0px solid; FONT-FAMILY: verdana, tahoma, arial; BACKGROUND-COLOR: #dfe3e9
+}
+TD.listtable_1 {
+	BORDER-RIGHT: #ffffff 1px solid; PADDING-RIGHT: 4px; BORDER-TOP: #ffffff 1px solid; PADDING-LEFT: 4px; FONT-SIZE: 10px; PADDING-BOTTOM: 2px; BORDER-LEFT: #ffffff 0px solid; PADDING-TOP: 2px; BORDER-BOTTOM: #ffffff 0px solid; FONT-FAMILY: verdana, tahoma, arial
+}
+A.alert {
+	PADDING-RIGHT: 11px; DISPLAY: block; PADDING-LEFT: 11px; PADDING-BOTTOM: 4px; COLOR: #cc0000; PADDING-TOP: 4px; BACKGROUND-COLOR: transparent; TEXT-DECORATION: none
+}
